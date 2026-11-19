@@ -56,4 +56,4 @@ An interactive Streamlit dashboard was created to explore:
 This project demonstrates data cleaning, exploratory data analysis, KPI reporting, visualization, dashboard development, and business insight generation using Python.
 ## Dashboard Preview
 
-![Spain Top 50 Dashboard](Spain_Dashboard.png)
+](https://github.com/rayshiniravuri123/spain-top-50-music-analysis-Copy/blob/main/sapin%20dashboard.png)
