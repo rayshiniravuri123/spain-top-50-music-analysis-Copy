@@ -54,3 +54,6 @@ An interactive Streamlit dashboard was created to explore:
 
 ## Project Outcome
 This project demonstrates data cleaning, exploratory data analysis, KPI reporting, visualization, dashboard development, and business insight generation using Python.
+## Dashboard Preview
+
+![Spain Top 50 Dashboard](Spain_Dashboard.png)
